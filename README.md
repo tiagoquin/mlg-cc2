@@ -10,7 +10,7 @@
 
 > Briefly explain the problem and your solution (1/2 page).
 
-...
+The travelling salesman problem (TSP) allows to find the shortest path by passing to different cities and returning to the start. It can be modeled as a graph problem. The cities are the points of the graph. In this case, there are 14 cities of Republic of the Union of Myanmar with 2 vectors (one with the latitudes and the other with the longitudes). We need to consider than the surface of the Earth is an oblate spheroid, not flat. 
 
 ## 6.2 
 
